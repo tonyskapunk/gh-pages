@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Binario</title>
-    <link>https://pages.github.io/tonyskapunk/gh-pages/</link>
-    <description>Recent content on Binario</description>
+    <title>Posts on Binario</title>
+    <link>https://pages.github.io/tonyskapunk/gh-pages/posts/</link>
+    <description>Recent content in Posts on Binario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 May 2019 16:37:05 -0500</lastBuildDate>
     
-	<atom:link href="https://pages.github.io/tonyskapunk/gh-pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pages.github.io/tonyskapunk/gh-pages/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
