@@ -1,0 +1,6 @@
+[submodule "themes/hugo-theme-introduction"]
+	path = themes/hugo-theme-introduction
+	url = git@github.com:victoriadotdev/hugo-theme-introduction.git
+[submodule "themes/binario"]
+	path = themes/binario
+	url = git@github.com:Vimux/Binario.git

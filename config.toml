@@ -1,0 +1,13 @@
+baseURL = "https://pages.github.io/tonyskapunk/gh-pages/"
+title = "Binario"
+languageCode = "en-us"
+paginate = 10
+theme = "binario"
+publishDir = "docs"
+
+
+[Params]
+  description = "Responsive card-based & code-light Hugo theme"
+  columns = 2
+  mainSections = ["post"]
+  dateFormat = "January 02, 2006"
